@@ -1,4 +1,4 @@
-# github_nyu_brigde_cs
+# NYU brigde program Fall 2018
 NYU Tandon School of Engineering - Bridge to CS Spring 2018
 ![for_git](https://user-images.githubusercontent.com/87446059/126022196-94a01874-0754-4a58-9c61-8a293853db9a.jpeg)
 Want to know more about my background and/or collaborate? Let's connect through LinkedIn! https://www.linkedin.com/in/aigerim-madakimova/
